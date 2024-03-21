@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "666732809950",
+    "project_id": "goathletics-dc9ee",
+    "storage_bucket": "goathletics-dc9ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666732809950:android:809bddf7cb698d32eb7c4f",
+        "android_client_info": {
+          "package_name": "com.example.go_athletics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666732809950-o2rhlspf6ovepqs4r0f9c8vp712ienne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsm5ne40ACv-dfg4wFmNIiFwT-W3_Zrec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666732809950-o2rhlspf6ovepqs4r0f9c8vp712ienne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666732809950-bl2kb8j0mvah2i4te7j96sg99ka6o24d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goAthletics"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666732809950:android:6f19a3c678c84e48eb7c4f",
+        "android_client_info": {
+          "package_name": "com.goathletics.go_athletics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666732809950-o2rhlspf6ovepqs4r0f9c8vp712ienne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsm5ne40ACv-dfg4wFmNIiFwT-W3_Zrec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666732809950-o2rhlspf6ovepqs4r0f9c8vp712ienne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666732809950-bl2kb8j0mvah2i4te7j96sg99ka6o24d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goAthletics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
